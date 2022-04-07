@@ -1,3 +1,6 @@
+# This is a program that takes a board of Sudoku and finds the solution 
+# Features: Loops, Involves use of lists
+
 board = [
     [0,0,0,2,6,0,7,0,1],
     [6,8,0,0,7,0,0,9,0],
